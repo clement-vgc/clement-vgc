@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Salut, je suis Clément
 
-<!--
-**clement-vgc/clement-vgc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Étudiant en BUT Informatique (3ème année) — IUT d'Orléans**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Compétences
+
+**Langages** : Python · SQL · Java · JavaScript · PHP · Bash · HTML · CSS · Rust
+
+**Frameworks / Librairies** : Laravel · Symfony · Flask · Flutter · JavaFX · JDBC
+
+**Outils** : Git · GitHub · VSCode · Linux · VirtualBox · GNS3
+
+**Bases de données** : MySQL · MariaDB
+
+---
+
+## 💼 Expérience
+
+**Stage développement — Xapiema (agence web PHP/CMS, Orléans)** · 2026
+Conception de kits de démarrage (Starter Kits) pour configurer des agents IA sur des projets d'agence (Drupal, WordPress, Symfony, Laravel), testés sur un projet Laravel/Symfony en conditions réelles.
+
+---
+
+## 🚀 Projets phares
+
+### 🤖 Starter Kits IA pour agences web
+Kits de configuration d'agents IA (Claude Code) pour projets Drupal, WordPress, Symfony et Laravel.
+`PHP` `Laravel` `Symfony` `Drupal` `WordPress`
+🔗 [Voir le projet](#)
+
+### 🌐 SocialDev
+Réseau social développé pour valider les Starter Kits en conditions réelles.
+`Laravel 11` `Symfony 7.3`
+🔗 [Voir le projet](#)
+
+### 📚 Encyclopédie Kingdom Rush
+Site web dynamique en JavaScript recensant les contenus du jeu Kingdom Rush.
+`JavaScript` `HTML` `CSS`
+🔗 [Voir le projet](#)
+
+---
+
+## 🎮 Centres d'intérêt
+
+Compétition esport, streaming
