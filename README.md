@@ -28,17 +28,14 @@ Conception de kits de démarrage (Starter Kits) pour configurer des agents IA su
 ### 🤖 Starter Kits IA pour agences web
 Kits de configuration d'agents IA (Claude Code) pour projets Drupal, WordPress, Symfony et Laravel.
 `PHP` `Laravel` `Symfony` `Drupal` `WordPress`
-🔗 [Voir le projet](#)
 
 ### 🌐 SocialDev
 Réseau social développé pour valider les Starter Kits en conditions réelles.
 `Laravel 11` `Symfony 7.3`
-🔗 [Voir le projet](#)
 
 ### 📚 Encyclopédie Kingdom Rush
 Site web dynamique en JavaScript recensant les contenus du jeu Kingdom Rush.
 `JavaScript` `HTML` `CSS`
-🔗 [Voir le projet](#)
 
 ---
 
