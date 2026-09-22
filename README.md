@@ -63,7 +63,6 @@ Réseau social développé pour valider les Starter Kits en conditions réelles.
 ### 🀄 Hangman en Rust
 Premier projet en Rust — apprentissage du borrow checker et de l'immutabilité par défaut, venant d'un profil Python/Java.
 `Rust`
-🔗 [Voir le projet](#)
 
 ### 📚 Encyclopédie Kingdom Rush
 Site web dynamique en JavaScript recensant les contenus du jeu Kingdom Rush.
